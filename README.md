@@ -1,4 +1,4 @@
-# Unit-11---Risky Business Homework
+# Unit-11---Risky Business
 ![credit-risk](https://user-images.githubusercontent.com/105663954/184457824-dc3b83c1-a5a8-4bc0-93dd-6c38648d3740.jpg)
 Background
 Mortgages, student and auto loans, and debt consolidation are just a few examples of credit and loans that people seek online. Peer-to-peer lending services such as Loans Canada and Mogo let investors loan people money without using a bank. However, because investors always want to mitigate risk, a client has asked that you help them predict credit risk with machine learning techniques.
